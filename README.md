@@ -6,9 +6,7 @@ All RefCards are designed to be printed in A4 format. Please mind that page marg
 Download: https://github.com/bytezoid/refcards/releases/tag/go-refcard-0.0.1
 ### Sample pages
 
-<img src="images/go-refcard-preview-1.png" width="25%">
-<img src="images/go-refcard-preview-2.png" width="25%">
-<img src="images/go-refcard-preview-3.png" width="25%">
+<img src="images/go-refcard-preview-1.png" width="25%"> <img src="images/go-refcard-preview-2.png" width="25%"> <img src="images/go-refcard-preview-3.png" width="25%">
 
 ### Sources
 This Golang RefCard/Cheatsheet is based on and inspired by the following sources:
