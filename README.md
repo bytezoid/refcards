@@ -1,9 +1,13 @@
 # RefCards
 
-All RefCards are designed to be printed in A4 format. Please mind that page margins set to zero: when printing, remember to turn on scaling to the printer's real page margins.
+## How to print
+
+All RefCards are designed to print in A4 format. Please note that the page margins are set to zero. When printing, remember to turn on scaling to fit the printer's actual page margins.
+
 ## Go RefCard
 
-Download: https://github.com/bytezoid/refcards/releases/tag/go-refcard-0.0.1
+Download PDF: https://github.com/bytezoid/refcards/releases/download/go-refcard-0.0.1/go-refcard.pdf
+
 ### Sample pages
 
 <img src="images/go-refcard-preview-1.png" width="25%"> <img src="images/go-refcard-preview-2.png" width="25%"> <img src="images/go-refcard-preview-3.png" width="25%">
@@ -21,6 +25,32 @@ This Golang RefCard/Cheatsheet is based on and inspired by the following sources
 * https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/
 * https://go.dev/ref/spec answered almost all other questions left :-)
 
-Fonts used:
-* Iosevka https://github.com/be5invis/Iosevka
-* PT Sans https://www.paratype.com/fonts/pt/pt-sans
+## Bash RefCard
+
+Download PDF: https://github.com/bytezoid/refcards/releases/download/bash-refcard-0.0.1/bash-refcard.pdf
+
+### Sample pages
+
+<img src="images/bash-refcard-preview-1.png" width="25%"> <img src="images/bash-refcard-preview-2.png" width="25%"> <img src="images/bash-refcard-preview-3.png" width="25%">
+
+### Sources
+
+* https://devhints.io/bash.html and https://quickref.me/bash.html were again the main source of the inspiration
+* https://gto76.github.io/linux-cheatsheet/ is a famous Comprehensive Linux Cheatsheet
+* https://appletree.or.kr/quick_reference_cards/Unix-Linux/Bash%20Quick%20Reference.pdf is another exhaustive printable Linux cheatsheet
+* https://devopedia.org/linux-signals a good article on Linux signals
+* https://ss64.com/bash/syntax-keyboard.html contains many useful Bash keyboard shortcuts
+* https://skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/ has both useful shortcuts and tips on working with Bash history
+* https://github.com/fliptheweb/bash-shortcuts-cheat-sheet and https://clementc.github.io/blog/2018/01/25/moving_cli/ contain a nice diagram depicting cursor movement shortcuts
+
+# Credits
+
+## Software
+
+* Cheatsheets were designed in the [LibreOffice Writer](https://www.libreoffice.org/discover/writer/)
+* For the code highlighting the brilliant [Code Highlighter 2](https://extensions.libreoffice.org/en/extensions/show/5814) extension was used.
+
+## Fonts
+
+* Iosevka https://github.com/be5invis/Iosevka is a beautiful monospace font with a lot of different variations.
+* PT Sans https://www.paratype.com/fonts/pt/pt-sans is a great free alternative to the Myriad Pro font.
