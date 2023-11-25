@@ -21,6 +21,28 @@ This Golang RefCard/Cheatsheet is based on and inspired by the following sources
 * https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/
 * https://go.dev/ref/spec answered almost all other questions left :-)
 
-Fonts used:
-* Iosevka https://github.com/be5invis/Iosevka
-* PT Sans https://www.paratype.com/fonts/pt/pt-sans
+## Bash
+
+<img src="images/bash-refcard-preview-1.png" width="25%"> <img src="images/bash-refcard-preview-2.png" width="25%"> <img src="images/bash-refcard-preview-3.png" width="25%">
+
+### Sources
+
+* https://devhints.io/bash.html and https://quickref.me/bash.html were again the main source of the inspiration
+* https://gto76.github.io/linux-cheatsheet/ is a famous Comprehensive Linux Cheatsheet
+* https://appletree.or.kr/quick_reference_cards/Unix-Linux/Bash%20Quick%20Reference.pdf is another exhaustive printable Linux cheatsheet
+* https://devopedia.org/linux-signals a good article on Linux signals
+* https://ss64.com/bash/syntax-keyboard.html contains many useful Bash keyboard shortcuts
+* https://skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/ has both useful shortcuts and tips on working with Bash history
+* https://github.com/fliptheweb/bash-shortcuts-cheat-sheet and https://clementc.github.io/blog/2018/01/25/moving_cli/ contain a nice diagram depicting cursor movement shortcuts
+
+# Credits
+
+## Software
+
+* Cheatsheets were designed in the [LibreOffice Writer](https://www.libreoffice.org/discover/writer/)
+* For the code highlighting the brilliant [Code Highlighter 2](https://extensions.libreoffice.org/en/extensions/show/5814) extension was used.
+
+## Fonts
+
+* Iosevka https://github.com/be5invis/Iosevka is a beautiful monospace font with a lot of different variations.
+* PT Sans https://www.paratype.com/fonts/pt/pt-sans is a great free alternative to the Myriad Pro font.
