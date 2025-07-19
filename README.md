@@ -6,7 +6,7 @@ All RefCards are designed to print in A4 format. Please note that the page margi
 
 ## Go RefCard
 
-Download PDF: https://github.com/bytezoid/refcards/releases/download/go-refcard-0.0.1/go-refcard.pdf
+Download PDF: https://github.com/bytezoid/refcards/releases/download/go-refcard-2025-07-19/go-refcard-2025-07-19.pdf
 
 ### Sample pages
 
